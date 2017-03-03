@@ -33,11 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zhongkeruan.app</string>
+				<string>com.bangxin.oa</string>
 				<key>bundle-version</key>
 				<string>1.0.9</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>测试</string>
 				<key>title</key>
 				<string>OA</string>
 			</dict>
